@@ -25,7 +25,7 @@ const Contact = () => {
   const personalProfile = [
     { label: "Origin", value: "Oyo, Nigeria" },
     { label: "Family", value: "Married with children" },
-    { label: "Primary Education", value: "St. Andrew's" },
+    { label: "Primary Education", value: "ST.ANDREW'S DEMOSTRATION PRIMARY SCHOOL" },
     { label: "Secondary Education", value: "Notable institutions" },
     { label: "Professional Focus", value: "Educational leadership and innovation" }
   ];
