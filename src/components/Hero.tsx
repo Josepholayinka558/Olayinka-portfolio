@@ -37,7 +37,7 @@ const Hero = () => {
           <div className="lg:w-2/3 text-center lg:text-left">
             <div className="mb-6">
               <h1 className="text-5xl lg:text-7xl font-bold mb-4 bg-gradient-to-r from-white to-amber-200 bg-clip-text text-transparent">
-                Dr. Olayinka Nihinlola Dosumu
+                Dr. Dupe Nihinlola Olayinka-Dosunmu
               </h1>
               <div className="text-xl lg:text-2xl text-amber-300 font-semibold mb-4">
                 Rector, Federal School of Surveying, Oyo
